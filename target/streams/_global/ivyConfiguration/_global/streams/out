@@ -1,0 +1,1 @@
+[warn] insecure HTTP request is deprecated 'http://repo.hortonworks.com/content/repositories/releases/'; switch to HTTPS or opt-in as ("Hortonworks Repository" at "http://repo.hortonworks.com/content/repositories/releases/").withAllowInsecureProtocol(true)
