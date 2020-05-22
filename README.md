@@ -1,2 +1,2 @@
-# OpenInsight
+# CodeInScala
 Assignment
